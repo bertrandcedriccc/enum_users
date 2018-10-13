@@ -1,0 +1,13 @@
+Extraction metadata - Attention ça peut être long selon la taille des fichiers
+
+Traceback (most recent call last):
+  File "main.py", line 92, in <module>
+    fonctions.Generer_users(ctraces,domaine+".html_users","user_gen_meta.txt")
+  File "/home/nemesis/TP/Enum_users/fonctions.py", line 97, in Generer_users
+    Fichier_users = open(ctraces+fichier,"r")
+IOError: [Errno 2] No such file or directory: 'result/education.gouv.fr/education.gouv.fr.html_users'
+
+
+récupération de l'admin du domaine
+possibilité insertion liste domaines
+détection si domaine déjà analysé
