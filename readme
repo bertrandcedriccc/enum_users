@@ -1,2 +1,3 @@
-0.2
--> ajout liste analyse
+Enumération des utilisateurs :
+- recherche des utilisateurs par moteurs de recherche (the harvester)
+- extraction des meta-données (metagoofil)
